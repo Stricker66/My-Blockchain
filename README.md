@@ -1,10 +1,15 @@
 # My-Blockchain
-A chain of blocks created with javascript
+
+## A chain of blocks created with javascript
 
 Clone el siguiente repositorio: https://github.com/Stricker66/My-Blockchain.git
 
-Nota: Asegurese de tener instalado NodeJS.
+**Nota: Asegurese de tener instalado NodeJS.**
 
-Ahora instale las dependencias con: npm install
+Ahora instale las dependencias con:
 
-Para finalizar ejecute: node main.js
+ `npm install`
+
+Para finalizar ejecute:
+
+ `node main.js`
